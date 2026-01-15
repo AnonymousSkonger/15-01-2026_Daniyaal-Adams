@@ -23,6 +23,7 @@ main {
 }
 section {
     margin-bottom: 20px;
+    margin-right: 20px;
     border-radius: 5px;
     background-color: rgb(133, 212, 222);
 }
@@ -70,4 +71,5 @@ footer {
     margin: 0px;
     position: relative;
     bottom: 0;
+
 }
